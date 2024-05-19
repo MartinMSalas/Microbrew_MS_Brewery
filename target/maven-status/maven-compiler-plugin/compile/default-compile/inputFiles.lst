@@ -8,6 +8,10 @@
 /home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/web/model/v2/BeerDtoV2.java
 /home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/services/BeerService.java
 /home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/web/model/v2/BeerStyleEnum.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/web/mappers/BeerMapper.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/web/mappers/CustomerMapper.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/domain/Beer.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/domain/Customer.java
 /home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/services/CustomerServiceImpl.java
 /home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/services/v2/BeerServiceV2Impl.java
 /home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/web/controller/MvcExceptionHandler.java
