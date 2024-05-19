@@ -1,0 +1,15 @@
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/web/controller/CustomerController.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/web/model/BeerDto.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/services/v2/BeerServiceV2.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/web/controller/v2/BeerControllerV2.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/services/BeerServiceImpl.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/web/controller/BeerController.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/services/CustomerService.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/web/model/v2/BeerDtoV2.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/services/BeerService.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/web/model/v2/BeerStyleEnum.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/services/CustomerServiceImpl.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/services/v2/BeerServiceV2Impl.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/web/controller/MvcExceptionHandler.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/MSBreweryApplication.java
+/home/martin/Developer/Java/Projects/Microservices/MicroBrew/MS_Brewery/Microbrew_MS_Brewery/src/main/java/com/mstechnology/msbrewery/web/model/CustomerDto.java
