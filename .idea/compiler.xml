@@ -19,11 +19,13 @@
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" />
         </processorPath>
         <module name="msbrewery" />
+        <module name="ms-brewery" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ms-brewery" options="-parameters -Amapstruct.defaultComponentModel=spring" />
       <module name="msbrewery" options="-parameters -Amapstruct.defaultComponentModel=spring" />
     </option>
   </component>
